@@ -1,0 +1,11 @@
+
+	printf("|%02X\n|",byte);
+	unsigned int left_nibble = (byte && 0xF0) >> 4;
+
+
+please help me this 
+is a not a easy task
+but i believe i can make it.
+i think so
+but things may works differentyl
+ 
